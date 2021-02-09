@@ -1,4 +1,7 @@
 # Boostrap Icons Rails
+[![Gem Version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=rb&type=6&v=1.20.16&x2=0)](https://badge.fury.io/rb/bootstrap_icons_rails)
+[![BI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.2.0&x2=0)](https://github.com/NILID/bootstrap_icons_rails/blob/master/lib/bootstrap_icons_rails/version.rb)
+
 **bootstrap_icons_rails** provides the [Bootstrap Icons](https://icons.getbootstrap.com/) web fonts, stylesheets as a Rails engine for use with the asset pipeline.
 
 Keep track of changes in [Changelog](https://github.com/NILID/bootstrap_icons_rails/blob/master/CHANGELOG.md).
