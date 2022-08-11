@@ -1,0 +1,7 @@
+/* these are only used in defining $bootstrap-icons-font-src, so don't need to override:
+$bootstrap-icons-font-dir
+$bootstrap-icons-font-file
+$bootstrap-icons-font-hash
+ */
+
+$bootstrap-icons-font-src: font-url("bootstrap-icons.woff") format("woff"), font-url("bootstrap-icons.woff2") format("woff2");
