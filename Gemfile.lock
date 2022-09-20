@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bootstrap_icons_rails (1.20.16)
+    bootstrap_icons_rails (1.83.01)
       railties (>= 4.2)
 
 GEM

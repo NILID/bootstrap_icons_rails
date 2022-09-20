@@ -1,3 +1,9 @@
+## v 1.83.01
+- Update to support BI v1.8.3
+
+## v 1.72.01
+- Update to support BI v1.7.2
+
 ## v 1.61.01
 - Update to support BI v1.6.1
 
