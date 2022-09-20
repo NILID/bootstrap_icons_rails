@@ -22,7 +22,7 @@ class BiIconParser
   end
 
   def sizes
-    @sizes ||= @options[:size].nil? ? "" : arr_with_bi(@options[:size]).uniq.join(" ").strip
+    @sizes ||= @options[:size].nil? ? '' : arr_with_bi(@options[:size]).uniq.join(' ').strip
   end
 
   def get_content_tag
@@ -39,9 +39,9 @@ class BiIconParser
     tmp = []
     tmp << icon_type(@options[:type])
     tmp += arr_with_bi(@icon)
-    tmp += @options[:class].split(" ") unless @options[:class].nil?
+    tmp += @options[:class].split(' ') unless @options[:class].nil?
     tmp += arr_with_bi(@options[:size]) unless @options[:size].nil?
-    tmp.uniq.join(" ").strip
+    tmp.uniq.join(' ').strip
   end
 
   def icon_content_tag

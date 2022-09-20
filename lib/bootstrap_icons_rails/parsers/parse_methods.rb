@@ -1,6 +1,6 @@
 module ParseMethods
   def icon_type(type)
-    return "bi"
+    return 'bi'
   end
 
   def prepend_bi(string)
