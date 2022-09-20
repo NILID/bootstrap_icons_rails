@@ -1,4 +1,4 @@
 module BootstrapIconsRails
-  BI_VERSION = '1.4.1'
-  VERSION = '1.41.01'
+  BI_VERSION = '1.5.0'
+  VERSION = '1.50.00'
 end
