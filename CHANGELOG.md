@@ -1,3 +1,9 @@
+## v 1.113.02
+- Fix: use font-url for correct precompile
+
+## v 1.113.01
+- Update to support BI v1.11.3
+
 ## v 1.91.01
 - Update to support BI v1.9.1
 
